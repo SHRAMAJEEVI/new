@@ -1,0 +1,21 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+#image{
+    margin-right: auto;
+}
+#mani{
+    font-size: 50px;
+}
+button{
+    
+    border-radius: 10px;
+    margin-right:auto ;
+
+}
+button:hover{
+    background-color:rgb(177, 174, 174);
+    color: white;
+}
